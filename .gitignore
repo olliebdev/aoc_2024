@@ -1,3 +1,4 @@
 *
 !.gitignore
 !/day**
+.DS_Store
