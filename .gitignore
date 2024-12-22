@@ -1,4 +1,2 @@
-*
-!.gitignore
-!/day**
-.DS_Store
+.DS_STORE
+test_input
